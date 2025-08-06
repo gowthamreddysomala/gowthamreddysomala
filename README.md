@@ -1,5 +1,11 @@
-# 💫 About Me:
-I'm currently working on: Building full-stack applications with Java, Spring Boot, and modern Frontend frameworks like React/Vue. 💻<br><br>I'm looking to collaborate on: Open-source projects that leverage the Spring ecosystem or require creative UI/UX solutions.<br><br>I'm looking for help with: Optimizing containerized applications and exploring microservices architecture.<br><br>I'm currently learning: Containerization with Docker and deepening my knowledge of the Linux command line.<br><br>Ask me about: Anything related to Java, Spring Boot, Linux, or building responsive web interfaces. 🤔<br><br>Fun fact: My terminal is my second home; I love customizing my shell and workflow. ✨
+> ### 💫 About Me
+> 
+> * **Working on:** Building full-stack applications with Java, Spring Boot, and modern Frontend frameworks like React/Vue. 💻
+> * **Collaborating on:** Open-source projects that leverage the Spring ecosystem or require creative UI/UX solutions.
+> * **Seeking help with:** Optimizing containerized applications and exploring microservices architecture.
+> * **Learning:** Containerization with Docker and deepening my knowledge of the Linux command line.
+> * **Ask me about:** Anything related to Java, Spring Boot, Linux, or building responsive web interfaces. 🤔
+> * **Fun fact:** My terminal is my second home; I love customizing my shell and workflow. ✨
 
 
 ## 🌐 Socials:
