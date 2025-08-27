@@ -11,9 +11,9 @@
 
 A list of my projects. Feel free to explore!
 
-- **[Project Name 1](https://github.com/your-username/project-repo-1)** - A brief one-line description of the project.
-- **[Project Name 2](https://github.com/your-username/project-repo-2)** - A brief one-line description of the project.
-- **[Project Name 3](https://github.com/your-username/project-repo-3)** - A brief one-line description of the project.
+- **[Ant Linux ](https://github.com/your-username/project-repo-1)** - A Light weight Linux Distribution.
+- **[The Digital Shelf](https://github.com/your-username/project-repo-2)** - The Digital Library to Download Books built with spring boot.
+- **[Url Shortner](https://github.com/your-username/project-repo-3)** - URL Shortler Service built using spring boot
 
 
 ## 🌐 Socials:
