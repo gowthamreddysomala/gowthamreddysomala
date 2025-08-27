@@ -7,6 +7,14 @@
 > * **Ask me about:** Anything related to Java, Spring Boot, Linux, or building responsive web interfaces. 🤔
 > * **Fun fact:** My terminal is my second home; I love customizing my shell and workflow. ✨
 
+## 🚀 My Projects
+
+A list of my projects. Feel free to explore!
+
+- **[Project Name 1](https://github.com/your-username/project-repo-1)** - A brief one-line description of the project.
+- **[Project Name 2](https://github.com/your-username/project-repo-2)** - A brief one-line description of the project.
+- **[Project Name 3](https://github.com/your-username/project-repo-3)** - A brief one-line description of the project.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gowthamreddysomala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somalagowthamreddy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gowthamreddysomala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowthamreddysomala@gmail.com) </br>
