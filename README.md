@@ -11,9 +11,10 @@
 
 A list of my projects. Feel free to explore!
 
+- **[The Digital Shelf](https://digitalshelf.netlify.app/)** - The Digital Library to Download Books built with spring boot.
+- **[Url Shortner](https://urlshortener-vk07.onrender.com/)** - URL Shortler Service built using spring boot
 - **[Ant Linux ](https://antlinux.netlify.app/)** - A Light weight Linux Distribution.
-- **[The Digital Shelf](https://github.com/your-username/project-repo-2)** - The Digital Library to Download Books built with spring boot.
-- **[Url Shortner](https://github.com/your-username/project-repo-3)** - URL Shortler Service built using spring boot
+
 
 
 ## 🌐 Socials:
