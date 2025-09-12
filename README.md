@@ -1,4 +1,4 @@
-> ### 💫**[About Me](https://gowthamreddysomala.netlify.app/)** -- click here to see Portfolio website
+> ### 💫**[About Me](https://gowthamreddysomala.netlify.app/)** -- click here to see my Portfolio website
 > 
 > * **Working on:** Building full-stack applications with Java, Spring Boot, and modern Frontend frameworks like React/Vue. 💻
 > * **Collaborating on:** Open-source projects that leverage the Spring ecosystem or require creative UI/UX solutions.
